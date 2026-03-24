@@ -1,0 +1,8 @@
+customer_id,customer_name,sector,region,segment
+CUST_001,AeroDynamics,Tech,EMEA - DACH,Enterprise
+CUST_002,BioHealth Solutions,Healthcare,EMEA - DACH,SMB
+CUST_003,CloudScale AI,Tech,AMER - US,Enterprise
+CUST_004,Delta Retail,Retail,EMEA - UK,Mid-Market
+CUST_005,Evergreen Finance,Finance,EMEA - DACH,Enterprise
+CUST_006,Future Mobility,Manufacturing,AMER - US,Mid-Market
+CUST_007,Global Logistics,Retail,APAC,Enterprise
