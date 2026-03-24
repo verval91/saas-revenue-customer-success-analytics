@@ -3,7 +3,7 @@ Tableau portfolio project: Strategic RevOps &amp; Customer Success dashboard ana
 
 # 📈 SaaS Revenue & Customer Success Control Center
 
-![Dashboard Preview](main/Dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ### 🚀 Project Overview
 This portfolio project presents a strategic analytics solution for **EchoGuard Solutions**, a fictional B2B SaaS company. The dashboard bridges the gap between financial performance (RevOps) and product engagement (Customer Success) to drive sustainable growth.
@@ -40,7 +40,7 @@ Tracks API Usage Calls, Active Users, and Support Ticket volume over 6 months.
 ---
 
 ### 🔗 Live Interactive Dashboard
-**[👉 Click here to view the interactive dashboard on Tableau Public]**
+**[👉 Click here to view the interactive dashboard on Tableau Public](https://public.tableau.com/views/RevenueandRetentionControlCenter/RevenueRetentionControlCenter?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
