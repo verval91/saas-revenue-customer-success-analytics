@@ -50,4 +50,4 @@ Tracks API Usage Calls, Active Users, and Support Ticket volume over 6 months.
 * `/tableau`: The `.twbx` workbook file for technical review.
 
 ---
-*Created by [A TE NEVED] - Connecting data insights to business outcomes.*
+*Created by Valentin Ver - Connecting data insights to business outcomes.*
